@@ -1,0 +1,4 @@
+  vertices:
+    - step_name: SQL connection test
+      execution_type: run_snowflake_sql
+      template_file: test_connection.template.sql
